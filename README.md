@@ -78,6 +78,7 @@ The app sends commands to the ESP32 over Wi-Fi and provides controls for:
 <table>
   <tr>
     <td><img src="media/robo2.3.jpeg" width="300"></td>
+     <td><img src="media/mitinventorcode.png" width="300"></td>    
   </tr>
 </table>
 
