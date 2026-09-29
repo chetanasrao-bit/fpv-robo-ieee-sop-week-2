@@ -45,7 +45,7 @@ The second smartphone mounted on the robot provides the live FPV video feed.
 
 <table>
   <tr>
-    <td><img src="media/connections.jpeg" width="300"></td>
+    <td><img src="media/connections1.jpeg.png" width="300"></td>
   </tr>
 </table>
 
