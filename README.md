@@ -102,7 +102,7 @@ The phone runs an IP Webcam application and provides a live video stream to the 
 - MIT App Inventor
 - IP Webcam
 
-## Project Photos and Videos
+## Project Photos
 
 <table>
   <tr>
