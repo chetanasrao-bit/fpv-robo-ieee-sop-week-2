@@ -84,8 +84,7 @@ The app sends commands to the ESP32 over Wi-Fi and provides controls for:
 
 <table>
   <tr>
-    <td><img src="media/app1.png" width="300"></td>
-    <td><img src="media/app2.png" width="300"></td>
+    <td><img src="mitinventor.jpeg" width="300"></td>
   </tr>
 </table>
 
@@ -107,15 +106,11 @@ The phone runs an IP Webcam application and provides a live video stream to the 
 
 <table>
   <tr>
-    <td><img src="media/robo2.1.jpg" width="300"></td>
-    <td><img src="media/robo2.2.jpg" width="300"></td>
-    <td><img src="media/robo2.3.jpg" width="300"></td>
+    <td><img src="media/robo2.1.jpeg" width="300"></td>
+    <td><img src="media/robo2.2.jpeg" width="300"></td>
+    <td><img src="media/robo2.3.jpeg" width="300"></td>
   </tr>
 </table>
-
-## Demo
-
-[▶️ Watch Demo Video](media/demo.mp4)
 
 ## What I Learned
 
