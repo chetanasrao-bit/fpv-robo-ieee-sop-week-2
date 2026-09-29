@@ -46,14 +46,7 @@ The second smartphone mounted on the robot provides the live FPV video feed.
 <table>
   <tr>
     <td><img src="media/connections1.jpeg.png" width="300"></td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td>
-
-### ESP32-S3-CAM → L298N
+    <td>### ESP32-S3-CAM → L298N
 
 | ESP32 Pin | L298N Pin | Function |
 |-----------|-----------|----------|
@@ -63,10 +56,10 @@ The second smartphone mounted on the robot provides the live FPV video feed.
 | GPIO 14 | IN3 | Motor B direction |
 | GPIO 41 | IN4 | Motor B direction |
 | GPIO 42 | ENB | Motor B PWM |
-
-  </td>
+</td>
   </tr>
 </table>
+
 
 ## MIT App Inventor Controller
 
@@ -84,7 +77,7 @@ The app sends commands to the ESP32 over Wi-Fi and provides controls for:
 
 <table>
   <tr>
-    <td><img src="mitinventor.jpeg" width="300"></td>
+    <td><img src="media/robo2.3.jpeg" width="300"></td>
   </tr>
 </table>
 
@@ -108,7 +101,7 @@ The phone runs an IP Webcam application and provides a live video stream to the 
   <tr>
     <td><img src="media/robo2.1.jpeg" width="300"></td>
     <td><img src="media/robo2.2.jpeg" width="300"></td>
-    <td><img src="media/robo2.3.jpeg" width="300"></td>
+
   </tr>
 </table>
 
@@ -131,7 +124,6 @@ Successfully built and tested a wireless FPV robot that could be controlled thro
 
 - Improve wireless control responsiveness
 - Add variable speed control
-- Improve camera positioning
 - Improve the controller interface
 - Add obstacle detection
 - Explore autonomous navigation
